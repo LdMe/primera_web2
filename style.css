@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+}
+.mitad {
+    display: inline-block;
+    width:45%;
+    margin:0;
+}
+
+.imagen_perfil {
+    width:200px;
+    height:200px;
+    border-radius:50%;
+}
+
+body {
+    background-color:rgb(241, 249, 166);
+    padding: 16px;
+}
+
+h1 {
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 42px;
+    color:rgb(77, 77, 193);
+}
+
+
+
+.fondo_rojo {
+    background-color: red;
+}
+.fondo_blanco {
+    background-color: white;
+}
